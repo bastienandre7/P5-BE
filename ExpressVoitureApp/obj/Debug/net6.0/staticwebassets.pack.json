@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExpressVoitureApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExpressVoitureApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\09960d92-3d52-4a17-818c-6243704aa211_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\09960d92-3d52-4a17-818c-6243704aa211_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\0a7eb50f-a4d8-4a27-9cc0-07029cc2b6e1_fordedge.jpg",
+      "PackagePath": "staticwebassets\\images\\0a7eb50f-a4d8-4a27-9cc0-07029cc2b6e1_fordedge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\0ba59299-4fea-415d-8c90-d101e25bea6d_018913_2010_Jeep_Liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\0ba59299-4fea-415d-8c90-d101e25bea6d_018913_2010_Jeep_Liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\0c15c36d-008a-466a-847a-2b17d14aea82_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\0c15c36d-008a-466a-847a-2b17d14aea82_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\10863203-fdc7-4872-8b9f-fc43ec301723_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\10863203-fdc7-4872-8b9f-fc43ec301723_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\127ae605-66b1-42bf-817e-0e72e99c9e86_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\127ae605-66b1-42bf-817e-0e72e99c9e86_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\1b181998-2bd0-4eb5-b9da-89fcd8e86238_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\1b181998-2bd0-4eb5-b9da-89fcd8e86238_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\1c53ba82-fad8-4c25-86fd-0c5cb89c2ea1_Renault_Scenic_2_001.jpg",
+      "PackagePath": "staticwebassets\\images\\1c53ba82-fad8-4c25-86fd-0c5cb89c2ea1_Renault_Scenic_2_001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\3b0d94de-726a-462e-99b6-a6ef935d9462_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\3b0d94de-726a-462e-99b6-a6ef935d9462_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\463e03a5-2aa0-457a-b3c8-a256b29b1de2_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\463e03a5-2aa0-457a-b3c8-a256b29b1de2_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\4ae81422-a9b5-4b3d-b550-bca2a1d48e53_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\4ae81422-a9b5-4b3d-b550-bca2a1d48e53_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\5cf7cffd-ab56-40c3-a567-0ca6a86d944f_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\5cf7cffd-ab56-40c3-a567-0ca6a86d944f_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\673955ed-34cf-4ace-8c50-96fb39aca3c9_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\673955ed-34cf-4ace-8c50-96fb39aca3c9_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\7a3a0628-690c-4b22-ad16-b8286728333b_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\7a3a0628-690c-4b22-ad16-b8286728333b_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\803d2562-25ae-42df-a822-d4caac1a9b45_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\803d2562-25ae-42df-a822-d4caac1a9b45_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\82321fd0-612f-4710-9032-29011a56c03d_hondacivic.jpg",
+      "PackagePath": "staticwebassets\\images\\82321fd0-612f-4710-9032-29011a56c03d_hondacivic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\afcd071b-c7bc-4d9c-9b2c-77b2d450723a_018913_2010_Jeep_Liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\afcd071b-c7bc-4d9c-9b2c-77b2d450723a_018913_2010_Jeep_Liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\b0b0212d-efdf-4b71-9e40-5541c521d9b4_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\b0b0212d-efdf-4b71-9e40-5541c521d9b4_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\b73a0c04-d3bb-41b9-b3e5-e8627c7bd1e0_golfgti.jpg",
+      "PackagePath": "staticwebassets\\images\\b73a0c04-d3bb-41b9-b3e5-e8627c7bd1e0_golfgti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\b7724444-cff7-470b-ae99-ac384fcc9005_golfgti.jpg",
+      "PackagePath": "staticwebassets\\images\\b7724444-cff7-470b-ae99-ac384fcc9005_golfgti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\bdeefd25-3021-40ad-b3d1-f8afaaf7a5c4_hondacivic.jpg",
+      "PackagePath": "staticwebassets\\images\\bdeefd25-3021-40ad-b3d1-f8afaaf7a5c4_hondacivic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\c205722c-7576-4248-8736-acb157e077b7_018913_2010_Jeep_Liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\c205722c-7576-4248-8736-acb157e077b7_018913_2010_Jeep_Liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\c2bd0483-e9fc-4d20-88af-20cc8fb6398f_018913_2010_Jeep_Liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\c2bd0483-e9fc-4d20-88af-20cc8fb6398f_018913_2010_Jeep_Liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\c7f28e5c-22c7-4cca-8c84-7f186048d4a8_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\c7f28e5c-22c7-4cca-8c84-7f186048d4a8_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\c8c9a7b7-6200-46ed-8db8-03b5a1f8ef0b_018913_2010_Jeep_Liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\c8c9a7b7-6200-46ed-8db8-03b5a1f8ef0b_018913_2010_Jeep_Liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\d1b1913f-d038-47cb-afea-68b7d7820edf_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\d1b1913f-d038-47cb-afea-68b7d7820edf_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\e19b907b-ef43-4204-93e5-8317495d9c18_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\e19b907b-ef43-4204-93e5-8317495d9c18_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\e1b5bb6b-a39e-4ce7-9f85-8004dc0d03fc_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\e1b5bb6b-a39e-4ce7-9f85-8004dc0d03fc_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\e895e93d-e609-48bf-b01b-4668a1e77c02_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\e895e93d-e609-48bf-b01b-4668a1e77c02_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\ebbeb1e6-9956-4eb3-b9e5-30f20e5caa66_Ford-Explorer-Limited-2017 (11)fr.jpg",
+      "PackagePath": "staticwebassets\\images\\ebbeb1e6-9956-4eb3-b9e5-30f20e5caa66_Ford-Explorer-Limited-2017 (11)fr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\ec955b4f-6e84-414e-a85d-d54fb24447de_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\ec955b4f-6e84-414e-a85d-d54fb24447de_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\f8f3126d-427f-47c4-bd04-1defc6b61252_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\f8f3126d-427f-47c4-bd04-1defc6b61252_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\images\\fb5d6c28-ec03-410e-b233-e8b7b0e9fcd4_miata.jpeg",
+      "PackagePath": "staticwebassets\\images\\fb5d6c28-ec03-410e-b233-e8b7b0e9fcd4_miata.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rankk\\Desktop\\FORMATION BACK END\\PROJET 5\\Projet ExpressVoiture\\ExpressVoitureApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExpressVoitureApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExpressVoitureApp.props",
+      "PackagePath": "build\\ExpressVoitureApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExpressVoitureApp.props",
+      "PackagePath": "buildMultiTargeting\\ExpressVoitureApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExpressVoitureApp.props",
+      "PackagePath": "buildTransitive\\ExpressVoitureApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

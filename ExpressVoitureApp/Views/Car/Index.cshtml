@@ -1,0 +1,35 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model IEnumerable<ExpressVoitureApp.Models.Car>
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<h1>Stock</h1>
+<div class="mainContainer">
+    @foreach (var item in Model) {
+            <div class="IndexCard">
+                <img src="../images/@Html.DisplayFor(modelItem => item.Image)" style="width:200px; object-fit:cover" />
+                <div>
+                    <h3>@Html.DisplayFor(modelItem => item.Brand) @Html.DisplayFor(modelItem => item.Model)</h3>
+                    <p>@Html.DisplayFor(modelItem => item.Year) | @Html.DisplayFor(modelItem => item.Finishing)</p>
+                    @if (item.Availability == true)
+                    {
+                        <p>Disponible</p>
+                    }
+                    else
+                    {
+                        <p>Plus disponible</p>
+                    }
+                    <h3>@Html.DisplayFor(modelItem => item.Finance.Price) €</h3>
+                </div>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <div class="buttonContainer">
+                        <a class="CardButton" asp-controller="Car" asp-action="Edit" asp-route-id="@item.Id">Modifier</a>
+                        <a class="CardButton" asp-controller="Car" asp-action="Delete" asp-route-id="@item.Id">Supprimer</a>
+                    </div>
+                }
+                else{}
+            </div>
+    }   
+</div>

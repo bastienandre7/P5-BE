@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.mainContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.IndexCard{
+    width:200px;
+    margin: 50px;
+}
+
+.titleNavbar{
+    font-size: xx-large;
+}
+
+.connectionButton{
+    width: 150px;
+}
+
+.CardButton{
+    text-decoration:none;
+    color: white;
+    background-color: royalblue;
+    padding:5px 10px;
+    border-radius:5px;
+}
+
+.CardButton:hover{
+    color:white;
+}
+
+.buttonContainer{
+    display:flex;
+    justify-content: space-between
+}
